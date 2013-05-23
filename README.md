@@ -8,6 +8,10 @@ Problems with CDI in modules:
 * https://community.jboss.org/thread/220564
 * https://community.jboss.org/thread/194955
 
+Possible solution:
+
+* https://issues.jboss.org/browse/WFLY-1370
+
 Important links:
 
 * http://docs.jboss.org/weld/reference/1.0.0/en-US/html_single
